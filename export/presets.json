@@ -1,0 +1,96 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "__sps": {
+        "CUTS": {},
+        "STUTTER": {
+          "__sps": {
+            "circ1l": {
+              "__sps": {
+                "quantize": {}
+              }
+            },
+            "circ2l": {
+              "__sps": {
+                "quantize": {}
+              }
+            },
+            "cric1r": {
+              "__sps": {
+                "quantize": {}
+              }
+            },
+            "cric2r": {
+              "__sps": {
+                "quantize": {}
+              }
+            },
+            "likelihood": {},
+            "likelihood[1]": {},
+            "quantize": {},
+            "quantize[1]": {},
+            "stutter-withtempo": {}
+          }
+        }
+      },
+      "cutout-depth-max": {
+        "value": 100
+      },
+      "cutout-depth-min": {
+        "value": 100
+      },
+      "cutout-length-max": {
+        "value": 20
+      },
+      "cutout-length-min": {
+        "value": 1
+      },
+      "cutout-onoff": {
+        "value": 0
+      },
+      "cutout-rate-max": {
+        "value": 600
+      },
+      "cutout-rate-min": {
+        "value": 1
+      },
+      "cutout-stereoify": {
+        "value": 0
+      },
+      "stutter-loop-max": {
+        "value": 250
+      },
+      "stutter-loop-min": {
+        "value": 25
+      },
+      "stutter-mode": {
+        "value": 1
+      },
+      "stutter-onoff": {
+        "value": 1
+      },
+      "stutter-probability": {
+        "value": 50
+      },
+      "stutter-quantize": {
+        "value": 0
+      },
+      "stutter-quantize-mode": {
+        "value": 0
+      },
+      "stutter-rate-max": {
+        "value": 1500
+      },
+      "stutter-rate-min": {
+        "value": 500
+      },
+      "stutter-stereoize": {
+        "value": 0
+      },
+      "stutter-trigger": {
+        "value": 0
+      }
+    }
+  }
+]
