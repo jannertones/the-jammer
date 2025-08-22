@@ -1,4 +1,4 @@
-# the woodchipper
+# the jammer
 <img src="documents/jammer_ui.png">
 the jammer by ~degausserDSP is a digital glitch audio plugin. the "stutter" module emulates a broken CD player, randomly causing the incoming audio to get stuck and loop. the "cutout" module creates randomized volume drops. 
 
